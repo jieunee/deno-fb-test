@@ -12,9 +12,12 @@ import { installGlobals } from "https://deno.land/x/virtualstorage@0.1.0/mod.ts"
 // CDN which also provides modules as ES Modules.
 // @deno-types="https://cdn.skypack.dev/-/firebase@v8.7.0-MrU9zUCxcEMCl2U7Tuz6/dist=es2020,mode=types/index.d.ts"
 //import firebase from "https://cdn.skypack.dev/firebase@8.7.0/app";
-import firebase from "https://www.gstatic.com/firebasejs/9.6.0/firebase-app.js";
-import "https://cdn.skypack.dev/firebase@8.7.0/auth";
-import "https://cdn.skypack.dev/firebase@8.7.0/firestore";
+//import "https://cdn.skypack.dev/firebase@8.7.0/auth";
+//import "https://cdn.skypack.dev/firebase@8.7.0/firestore";
+
+import "https://www.gstatic.com/firebasejs/9.6.0/firebase-app.js";
+import "https://www.gstatic.com/firebasejs/9.6.0/firebase-auth.js";
+import "https://www.gstatic.com/firebasejs/9.6.0/firebase-firestore.js";
 
 // For this tutorial, we are going to use the oak middleware framework to create
 // our APIs and integrate to Firebase.

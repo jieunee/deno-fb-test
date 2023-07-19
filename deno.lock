@@ -18,6 +18,7 @@
     "https://cdn.skypack.dev/-/tslib@v2.2.0-aACEbPrqb1U8uyinA6J0/dist=es2019,mode=imports/optimized/tslib.js": "95ccfbf8bc9c5b81a343a5827eb6960f24bd26d3aa2dae4f54be032f03d94466",
     "https://cdn.skypack.dev/-/tslib@v2.3.0-7PdXE4NamvODmIuM0tBj/dist=es2019,mode=imports/optimized/tslib.js": "6e5577ae3f56b65d3363105e22a8953adfa0ea795b7f93e9377d8ed35e2bd314",
     "https://cdn.skypack.dev/-/tslib@v2.3.1-oagOtGnmjZ2E5Gt5m3zI/dist=es2019,mode=imports/optimized/tslib.js": "6a8aec215e19801a0cc9dfae2d87b3d5e774115c0684d3bd173ea7950c3a3e9e",
+    "https://cdn.skypack.dev/error/build:firebasejs@v1.1.4-EGsfUVvi5vYQzQ865Q6P": "630652b0ff5d14052a71b5b2d53ad80950eadac492a259823176fdb64098cb8e",
     "https://cdn.skypack.dev/firebase@8.7.0/app": "e0aa6c4648f185d0bfd8528e9ffb66f529b3d8f5354b6e32b0d702f4371a0d71",
     "https://cdn.skypack.dev/firebase@8.7.0/auth": "dc06bbc24bd86ae06ce2ee8c84a58a9a0c9e5f84fcf4fe81701c698fdfb36a9f",
     "https://cdn.skypack.dev/firebase@8.7.0/firestore": "712d5182d582e693fbd058562eda825da1efa14c8961b1ef289fc8efc57b7691",
@@ -106,6 +107,9 @@
     "https://deno.land/x/virtualstorage@0.1.0/middleware.ts": "abb7a2c816bf9201d07946bd1ee3d79a916cea74f7992b30e9a45b7777ca38c4",
     "https://deno.land/x/virtualstorage@0.1.0/mod.ts": "9449c2f86fab7d09fd7b76446c7852515bbe512cca925a93793e0361d1e266d4",
     "https://deno.land/x/virtualstorage@0.1.0/virtualStorage.ts": "602965ab9985f0e330587db8b60c2639611622cfd608d1964ade58ed746db09d",
-    "https://deno.land/x/xhr@0.1.1/mod.ts": "23518d9a74b17ea7ec3fc0cb9bf491ba91e1c83a29a4043ace12e214f255fa29"
+    "https://deno.land/x/xhr@0.1.1/mod.ts": "23518d9a74b17ea7ec3fc0cb9bf491ba91e1c83a29a4043ace12e214f255fa29",
+    "https://www.gstatic.com/firebasejs/9.6.0/firebase-app.js": "8bfee8581a3b0759d02bf1019dd9a0abf9b0213b70675024de2c455cd4f8bfc3",
+    "https://www.gstatic.com/firebasejs/9.6.0/firebase-auth.js": "d5c15e6407d34333daa927743c2d707bfed974927cc62b8387a431ecbb7a4b07",
+    "https://www.gstatic.com/firebasejs/9.6.0/firebase-firestore.js": "74b5b35acca1bdd37e99a04a4f72c825dae8b7b4be065a954e579f6cbda07e9c"
   }
 }
